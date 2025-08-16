@@ -3,8 +3,8 @@
 // @version      1.0.0
 // @description  MAO-tools GP page
 // @match        https://fttb.bee.vimpelcom.ru/ptn/ng_ptn#/adminGlobalproblem/*
-// @downloadURL  https://raw.githubusercontent.com/chkzz/maotools-gp/refs/heads/main/gppage.js
-// @updateURL    https://raw.githubusercontent.com/chkzz/maotools-gp/refs/heads/main/gppage.js
+// @downloadURL  https://raw.githubusercontent.com/chkzz/maotools-gp/refs/heads/main/gppage.user.js
+// @updateURL    https://raw.githubusercontent.com/chkzz/maotools-gp/refs/heads/main/gppage.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_notification
 // @grant        GM_addStyle
